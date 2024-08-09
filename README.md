@@ -5,7 +5,7 @@ Teknofest 2024 TÜrkçe Doğal Dil İşleme Yarışması Serbest Kategori'de mü
 --resim eklenebilir
 İlk olarak ve en önemli adım veri seti hazırlamak üzere bir internet sitesi geliştirdik --github reposuna atıf yapılabilir link ile. Geliştirdiğimiz bu internet sitesi aracılığıyla ulaşabildiğimiz ve uzmanlığı bulunan kişilerden öğrencilerin yaşadığı sorunların çözümlerini, öğrencilerden ise yaşamış oldukları problemler ile ilgili veri toplamayı hedefledik. Topladığımız veri seti üzerinde Self-Instruct ve Prompt Engineering yöntemleri başta olmak üzere sentetik veri çoğaltma adımları uygulayarak modelimizde kullandık. Aynı zamanda topladığımız veri setini huggingface platformunda yayınladık.
 
-Modelimizin hedef kitlesinin ihtiyaçlarını düşünerek modelimizin matematik görevlerindeki performansını arttırmak için çalışmalarda bulunduk. Bu doğrultuda huggingface platforumnda ingilizce olarak bulunan ve ilgili task için geliştirilen matematik problemleri veri setlerini yayıncılarına atıflarda bulunarak Türkçe'leştirdik. Ardından Türkçe veri setlerini huggingface platformumuzda paylaştık.
-[Karayel-DDI/Turkce_Lighteval_MATH-Hard](https://huggingface.co/datasets/Karayel-DDI/Turkce_Lighteval_MATH-Hard)
-[Karayel-DDI/Turkce-qwedsacf_grade-school-math-instructions](https://huggingface.co/datasets/Karayel-DDI/Turkce-qwedsacf_grade-school-math-instructions)
+Modelimizin hedef kitlesinin ihtiyaçlarını düşünerek modelimizin matematik görevlerindeki performansını arttırmak için çalışmalarda bulunduk. Bu doğrultuda huggingface platforumnda ingilizce olarak bulunan ve ilgili task için geliştirilen matematik problemleri veri setlerini yayıncılarına atıflarda bulunarak Türkçe'leştirdik. Ardından Türkçe veri setlerini huggingface platformumuzda paylaştık.  
+[Karayel-DDI/Turkce_Lighteval_MATH-Hard](https://huggingface.co/datasets/Karayel-DDI/Turkce_Lighteval_MATH-Hard)  
+[Karayel-DDI/Turkce-qwedsacf_grade-school-math-instructions](https://huggingface.co/datasets/Karayel-DDI/Turkce-qwedsacf_grade-school-math-instructions)  
 [Karayel-DDI/Turkce-hendrycks_competition_math](https://huggingface.co/datasets/Karayel-DDI/Turkce-hendrycks_competition_math)
