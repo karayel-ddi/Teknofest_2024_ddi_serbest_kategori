@@ -20,3 +20,6 @@ Proje kapsamında [LLaMA 3](https://huggingface.co/meta-llama/Meta-Llama-3-8B) m
 Model eğitimi QLORA yakşalımı ile yapılmıştır. Kullanılan eğitim parametreleri ve eğitim kodu github'ta paylaşılmıştır.\
 Eğitilen model takımımızın [huggingface sayfasında](https://huggingface.co/Karayel-DDI) sayfasında paylaşılmıştır. İlgili bağlantıya aşağıdan ulaşabilirsiniz.\
 [Karayel-DDI/KARAYEL-LLM-q4](https://huggingface.co/Karayel-DDI/KARAYEL-LLM-q4)
+
+
+#Acıkhack2024TDDİ  #Türkiye Açık Kaynak Platformu
