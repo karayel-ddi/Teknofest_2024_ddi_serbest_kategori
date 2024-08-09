@@ -19,7 +19,8 @@ Modelimizin hedef kitlesinin ihtiyaçlarını düşünerek modelimizin matematik
 Proje kapsamında [LLaMA 3](https://huggingface.co/meta-llama/Meta-Llama-3-8B) modelinin Türkçe kaynak veri setleri ile eğitilmesi sonucu Türkçe dilinde oldukça başarılı performans gösteren [ytu-ce-cosmos/Turkish-Llama-8b-Instruct-v0.1](https://huggingface.co/ytu-ce-cosmos/Turkish-Llama-8b-Instruct-v0.1) modeli fine-tune edilmiştir. Veri toplama süreçleri adımında anlatıldığı üzere toplanan veriler gerekli işlem adımları sonrası modelin instruction-tune görevinde kullanılmıştır.\
 Model eğitimi QLORA yakşalımı ile yapılmıştır. Kullanılan eğitim parametreleri ve eğitim kodu github'ta paylaşılmıştır.\
 Eğitilen model takımımızın [huggingface sayfasında](https://huggingface.co/Karayel-DDI) sayfasında paylaşılmıştır. İlgili bağlantıya aşağıdan ulaşabilirsiniz.\
+
 [Karayel-DDI/KARAYEL-LLM-q4](https://huggingface.co/Karayel-DDI/KARAYEL-LLM-q4)
-
-
+  
+  
 #Acıkhack2024TDDİ  #Türkiye Açık Kaynak Platformu
