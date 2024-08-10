@@ -26,7 +26,8 @@ Eğitilen modeli takımımızın [huggingface sayfasında](https://huggingface.c
 
 Projemizin 3. adımı olarak geliştirdiğimiz LLM modelini bir chat arayüzü ile sunmak adına geliştirmelerde bulunduk. Bu adımda ki amacımız modelin kullanım senaryolarını arttırmak ve kullanıcıların kolay kullanımına sunmak oldu. Gradio kütüphanesi kullanarak geliştirdiğimiz arayüzümüzün [kaynak kodlarını](https://github.com/karayel-ddi/Teknofest_2024_ddi_serbest_kategori/blob/main/chat.py) github sayfamızda paylaştık. Aşağıda çalışmasını görebilirsiniz.
 
-![KARAYEL Chatbot Uygulaması](https://github.com/karayel-ddi/Teknofest_2024_ddi_serbest_kategori/blob/main/media/karayel-llm-gradio.mp4)
-  
+https://github.com/user-attachments/assets/69fcd5bd-0214-4ae0-bc22-bc5fa47098cc
+
+
   
 #Acıkhack2024TDDİ  #Türkiye Açık Kaynak Platformu
